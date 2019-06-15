@@ -17,19 +17,19 @@ Options:
 
 Downloads just the raw files of model from url
 ```bash
-      Sketchfab-dl.exe -c -u {sketchfab 3d model url}
+  Sketchfab-dl.exe -c -u {sketchfab 3d model url}
 ```
 
 Downloads the raw files of model and texture files from siurce file
 ```bash
-      Sketchfab-dl.exe -ct -u {sketchfab 3d model url}
+  Sketchfab-dl.exe -ct -u {sketchfab 3d model url}
 ```
 
 Downloads the raw files of the model and exports it in .obj file by [blender 2.49b](https://www.blender.org/) (with python script)
 ```bash
-      Sketchfab-dl.exe -ec -u {sketchfab 3d model url}
-	  
-      Sketchfab-dl.exe -ec -s "path\source.txt"
+  Sketchfab-dl.exe -ec -u {sketchfab 3d model url}
+  
+  Sketchfab-dl.exe -ec -s "path\source.txt"
 ```
 
 # Building Code
