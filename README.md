@@ -13,12 +13,12 @@ Downloader for 3d model from [Sketchfab](https://sketchfab.com/) in .NET
 ```
 
 ## Usage
-- Downloads just the raw files of model from url
+- Downloads just the raw files of the model from url
 ```bash
   Sketchfab-dl.exe -c -u {sketchfab 3d model url}
 ```
 
-- Downloads the raw files of model and texture files from siurce file
+- Downloads the raw files of the model and texture files from siurce file
 ```bash
   Sketchfab-dl.exe -ct -u {sketchfab 3d model url}
 ```
