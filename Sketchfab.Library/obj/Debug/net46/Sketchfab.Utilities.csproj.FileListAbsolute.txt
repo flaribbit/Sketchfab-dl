@@ -1,0 +1,58 @@
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\CloudFlareUtilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\HtmlAgilityPack.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.AppContext.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Console.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.FileSystem.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Net.Http.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Net.Sockets.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csproj.CopyComplete
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\CloudFlareUtilities.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\HtmlAgilityPack.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.AppContext.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Console.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.FileSystem.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Net.Http.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Net.Sockets.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.csproj.CopyComplete
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\net46\Sketchfab.Utilities.pdb

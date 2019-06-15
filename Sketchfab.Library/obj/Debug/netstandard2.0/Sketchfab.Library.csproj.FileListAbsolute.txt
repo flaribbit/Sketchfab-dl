@@ -1,0 +1,9 @@
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\bin\Debug\netstandard2.0\Sketchfab.Library.deps.json
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\bin\Debug\netstandard2.0\Sketchfab.Library.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\bin\Debug\netstandard2.0\Sketchfab.Library.pdb
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Library\obj\Debug\netstandard2.0\Sketchfab.Library.pdb

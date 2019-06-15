@@ -1,0 +1,14 @@
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\CloudFlareUtilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\obj\Debug\Automation (Main).csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\obj\Debug\Automation (Main).csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\obj\Debug\Automation (Main).csproj.CopyComplete
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Sketchfab-dl.exe.config
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Sketchfab-dl.exe
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\Sketchfab-dl.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\obj\Debug\Sketchfab-dl.exe
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\obj\Debug\Sketchfab-dl.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Downloader\bin\Debug\NDesk.Options.dll

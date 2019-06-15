@@ -1,0 +1,18 @@
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.deps.json
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Geppo Project\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.deps.json
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\bin\Debug\netstandard2.0\Sketchfab.Utilities.pdb
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.dll
+C:\Users\Francesco\Desktop\Sketchfab Downloader\Sketchfab.Utilities\obj\Debug\netstandard2.0\Sketchfab.Utilities.pdb
