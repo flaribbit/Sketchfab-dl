@@ -1,5 +1,5 @@
 # Sketchfab-dl
-Downloader for 3d model from [Sketchfab](https://sketchfab.com/) in .NET
+Downloader 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
 
 ## Options
 ```csharp
@@ -18,7 +18,7 @@ Downloader for 3d model from [Sketchfab](https://sketchfab.com/) in .NET
   Sketchfab-dl.exe -c -u {sketchfab 3d model url}
 ```
 
-- Downloads the raw files of the model and texture files from siurce file
+- Downloads the raw files of the model and texture files from source file
 ```bash
   Sketchfab-dl.exe -ct -u {sketchfab 3d model url}
 ```
