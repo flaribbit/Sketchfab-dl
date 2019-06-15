@@ -23,11 +23,11 @@ Downloader 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
   Sketchfab-dl.exe -ct -u {sketchfab 3d model url}
 ```
 
-- Downloads the raw files of the model and exports it in `.obj` file by [blender 2.49b](https://www.blender.org/) (with python script)
+- Downloads the raw files of the model and exports them in `.obj`output file by [blender 2.49b](https://www.blender.org/) (with python script)
 ```bash
   Sketchfab-dl.exe -ec -u {sketchfab 3d model url}
   
-  Sketchfab-dl.exe -ec -s "path\source.txt"
+  Sketchfab-dl.exe -ec -s "path\source.ext"
 ```
 
 ## Building Code
