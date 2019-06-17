@@ -18,7 +18,7 @@ Downloader 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
   Sketchfab-dl.exe -c -u {sketchfab 3d model url}
 ```
 
-- Downloads the raw files and from source file (list of urls)
+- Downloads the raw files from source file (list of urls)
 ```bash
   Sketchfab-dl.exe -c -s "path\filename.ext" {sketchfab 3d model url}
 ```
