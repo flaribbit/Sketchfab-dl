@@ -1,5 +1,5 @@
 # Sketchfab-dl
-Downloader 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
+Downloader raw 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
 
 ## Options
 ```csharp
