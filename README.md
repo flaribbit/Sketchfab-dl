@@ -1,4 +1,11 @@
 # Sketchfab-dl
+
+The repository is obsoleted, but there may be something you need in the python Directory.
+
+Also, line 210 of `src\Sketchfab.Library\Sketchfab.cs` might help you.
+
+---
+
 Downloader raw 3d model from [Sketchfab.com](https://sketchfab.com/) in .NET
 
 ## Options
